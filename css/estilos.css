@@ -33,3 +33,9 @@ body
 {
     font-size: 25px;
 }
+#Container #footer
+{
+    text-align: center;
+    background-color: blue;
+    color: antiquewhite;
+}

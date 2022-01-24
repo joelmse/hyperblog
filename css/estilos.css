@@ -1,6 +1,7 @@
 body 
 {
-    color: rgba(218, 10, 10, 0.932); 
+    color: #080808ee; 
+    background-color: rgb(12, 14, 13);
     text-align: center;
      font-family: Arial;
      margin: 0%;
@@ -11,6 +12,7 @@ body
     background-color: rgb(32, 5, 107) ;
     box-shadow: 0px 5px 30px rgba(0,0,0,0.75);
     color: white;
+    text-align: end;
     font-weight: bold;
     margin: 0%;
     padding: 0.5em;
@@ -21,12 +23,18 @@ body
     font-weight: normal;
     font-size: 0.8em;
 }
+#Cabecera #logo
+{
+    width: 30px;
+    vertical-align: middle;
+}
 #Container
 {
     width: 70%;
     padding: 1em;
     text-align: left;
     border: 1px solid blueviolet;
+    background-color: beige;
     margin: 0% auto;
 }
 #Container h1
